@@ -1,0 +1,6 @@
+Pre-requisites Steps
+install node js
+install npx nodemon -g
+install ejs
+install express while creating after running npm init -y for create fresh project folder.
+install cookie-parser
